@@ -6,5 +6,6 @@
 
 <img width="505" alt="movies_query" src="https://user-images.githubusercontent.com/97326526/165013893-691afe1e-2490-46be-b03a-3b2e256e1101.png">
 
+-----------------------------------------------
 
 <img width="321" alt="ratings_query" src="https://user-images.githubusercontent.com/97326526/165013902-cf50b450-4c10-4290-b55a-12e31f4ecfbb.png">
